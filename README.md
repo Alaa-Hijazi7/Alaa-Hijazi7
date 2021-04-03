@@ -18,21 +18,15 @@ Here are some ideas to get you started:
 ## Hello there 👋, my name is Alaa
     
 ### About Me
-    - Someone addicted to web development,
-    - Palestinian,
+    - Someone addicted to web development
+    - Palestinian
     - ReactJS lover
 
 ### Working with
-    - probot.io,
-        * Credits store category
-        * Leaderboard category,
-        * Daily component,
-        * Transactions component,
-        * Mod actions,
-        * Reactions roles
+    - probot.io
 ### For fun...
-    - Playing video games,
-    - Making UI design,
+    - Playing video games
+    - Making UI design
     - Browsing (Pinterest, Dribbble)
 
 ### You can Find me on
