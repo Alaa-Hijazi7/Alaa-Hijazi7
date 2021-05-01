@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/alaahijazi.7/" target="_blank"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instgram" width="30"></a>
 <a href="https://discord.gg/xdTMeY2ENt"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-will-provide-official-verification-esports-team-4.png" alt="discord" width="30"></a>
 
-
+<a href="#"><img src="https://discord.c99.nl/widget/theme-1/739422677525069834.png"></a>
 
 <a href="https://github.com/Alaa-Hijazi7?tab=followers">
   <img src="https://img.shields.io/github/followers/Alaa-Hijazi7">
@@ -44,5 +44,3 @@ Here are some ideas to get you started:
 </a>
     <img src="https://github-profile-trophy.vercel.app/?username=Alaa-Hijazi7&theme=darkhub&margin-w=12&margin-h=10&column=7">
 </div>
-
-<a href="#"><img src="https://discord.c99.nl/widget/theme-1/739422677525069834.png"></a>
