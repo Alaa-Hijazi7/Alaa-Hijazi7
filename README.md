@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     - Playing video games
     - Making UI design
     - Browsing (Pinterest, Dribbble)
-### 💻 Languages and Tools
+### 💻 Skills
    [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Alaa-Hijazi7)](https://github.com/Alaa-Hijazi7)
    [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Alaa-Hijazi7)](https://github.com/Alaa-Hijazi7)
    [![Laravel](https://img.shields.io/badge/-laravel-white?style=flat&logo=laravel&link=https://github.com/Alaa-Hijazi7)](https://github.com/Alaa-Hijazi7)
