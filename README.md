@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     - Making UI design
     - Browsing (Pinterest, Dribbble)
 ### 💻 Languages and Tools
-    - [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Alaa-Hijazi7)](https://github.com/Alaa-Hijazi7)
+   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Alaa-Hijazi7)](https://github.com/Alaa-Hijazi7)
 
 ### 📫 You can Find me on
 <a href="mailto://hijazialaa67@gmail.com"><img src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63" alt="gmail" width="30"></a>
