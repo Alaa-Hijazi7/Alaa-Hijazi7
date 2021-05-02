@@ -50,5 +50,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Alaa-Hijazi7">
    <img src="https://komarev.com/ghpvc/?username=Alaa-Hijazi7">
 </a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Alaa-Hijazi7&theme=darkhub&margin-w=12&margin-h=10&column=7">
 </div>
