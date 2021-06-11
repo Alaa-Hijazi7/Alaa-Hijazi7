@@ -22,11 +22,12 @@ Here are some ideas to get you started:
     - Palestinian
     - JavaScript lover
 ### 🔭 Working with
-    - probot.io
-    - gamestars e-sport
-    - some freelance projects
+    - ProBot.io
+    - GameStars e-sport
+    - Some freelance projects
 ### ⚡ For fun...
     - Playing video games
+    - Watching anime
     - Making UI design
     - Browsing (Pinterest, Dribbble)
 ### 💻 Skills
