@@ -23,6 +23,8 @@ Here are some ideas to get you started:
     - JavaScript lover
 ### 🔭 Working with
     - probot.io
+    - gamestars e-sport
+    - some freelance projects
 ### ⚡ For fun...
     - Playing video games
     - Making UI design
