@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     - JavaScript lover
 ### 🔭 Working with
     - ProBot.io
-    - wwb.ps
+    - BULLIT
     - GameStars e-sport
     - Some freelance projects
 ### ⚡ For fun...
