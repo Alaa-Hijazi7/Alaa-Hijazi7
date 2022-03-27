@@ -57,4 +57,3 @@ Here are some ideas to get you started:
 </a>
 
 </div>
-<a href="#"><img src="https://discord.c99.nl/widget/theme-1/739422677525069834.png"></a>
