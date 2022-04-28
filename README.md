@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ### 🔭 Working with
     - ProBot.io
     - BULLIT
-    - GameStars e-sport
     - Some freelance projects
 ### ⚡ For fun...
     - Playing video games
