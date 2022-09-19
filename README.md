@@ -9,7 +9,6 @@
 ### 🔭 Working with
     - probot.io
     - trustangle
-    - Some freelance projects
 ### ⚡ For fun...
     - Playing video games
     - Watching anime
