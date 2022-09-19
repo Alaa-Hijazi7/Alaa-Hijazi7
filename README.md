@@ -8,7 +8,7 @@
     - JavaScript lover
 ### 🔭 Working with
     - probot.io
-    - bullit.app
+    - trustangle
     - Some freelance projects
 ### ⚡ For fun...
     - Playing video games
