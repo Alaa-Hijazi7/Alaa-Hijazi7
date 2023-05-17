@@ -6,7 +6,7 @@ Frontend Engineer
 
 I‘m passionate about developing and coding front-end websites. I create responsive designs and write clean code for web apps by using HTML/CSS/Javascript/Typescript. I always seek to get more about technology and creative ideas by learning new techniques and building projects. Therefore, I’ve been involved in several online courses and projects to develop my skills and solve problems in the best way.
 
-* 🌍  I'm based in Palestinian - Gaza Strip
+* 🌍  I'm based in Gaza Strip, Palestine
 * 🖥️  See my portfolio at [alaadeen](http://alaadeen.netlify.app/)
 * ✉️  You can contact me at [devalaadeen@gmail.com](mailto:devalaadeen@gmail.com)
 * 🚀  I'm currently working on [taawoni](http://taawoni.com/) and [probot](http://probot.io/)
